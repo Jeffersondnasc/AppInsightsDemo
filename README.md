@@ -29,10 +29,10 @@ Para dúvidas ou sugestões, abra uma issue no repositório.
 
 contato:jeffersondnasc@gmail.com
 
-/AppInsightsDemo/Sem título.jpg
+## Diagramas
 
-/AppInsightsDemo/Sem título2.jpg
-
-/AppInsightsDemo/Sem título3.jpg
+![Imagem 1](Sem título.jpg)
+![Imagem 2](Sem título2.jpg)
+![Imagem 3](Sem título3.jpg)
 
 
